@@ -1,0 +1,3 @@
+src: Project folder should go in here
+Build: Builds should go in here
+Documents: Any relevant documents that aren’t part of the project should go here

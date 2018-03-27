@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRSculpting\TexturePainter ( Place Me Out of Resources)\Scripts\TexturePainter.cs">
+    <Files>
+      <File FileName="Assets\VRSculpting\Script\GetSliderValue.cs" Line="14" Column="23" />
+      <File FileName="Assets\VRSculpting\Script\UI\BackButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\UI\VRTK_UICanvas.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\MeshSmoothing\Demo\Demo.cs" Line="73" Column="4" />
+      <File FileName="Assets\VRSculpting\Script\UINavigationSystem.cs" Line="87" Column="16" />
+      <File FileName="Assets\VRSculpting\Script\SliderValue.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\PaintMeshDeformer.cs" Line="240" Column="6" />
+      <File FileName="Assets\VRSculpting\Script\ObjectRotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\GetMeshTransform.cs" Line="185" Column="7" />
+      <File FileName="Assets\VRTK\Scripts\Internal\VRTK_Logger.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Pointers\VRTK_Pointer.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Internal\VRTK_UIGraphicRaycaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_ControllerEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Utilities\UnityEvents\VRTK_ControllerEvents_UnityEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_InteractableObject.cs" Line="164" Column="99" />
+      <File FileName="Assets\VRSculpting\TexturePainter ( Place Me Out of Resources)\Scripts\TexturePainter.cs" Line="94" Column="55" />
+      <File FileName="Assets\VRTK\Scripts\UI\VRTK_UIPointer.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\UI\ToolPreviewHover.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\GoalBasedLearning.cs" Line="34" Column="36" />
+      <File FileName="Assets\VRSculpting\Script\SaveVector3ToFile.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\CubeSphere.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\OBJ_exporter\ObjExporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\Script\OBJ_exporter\EditorObjExporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRSculpting\TexturePainter ( Place Me Out of Resources)\Scripts\GUIManager.cs" Line="7" Column="2" />
+      <File FileName="Assets\VRSculpting\TexturePainter ( Place Me Out of Resources)\ColorSelector\ColorSelector.cs" Line="50" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

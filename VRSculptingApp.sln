@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSculptingApp", "Assembly-CSharp.csproj", "{52CECDFC-FB09-8E5B-BBE0-BCC76A868D3C}"
+EndProject
+Project("{66979119-F922-D7A1-CE0C-700309F3EC0A}") = "VRSculptingApp", "Assembly-UnityScript.unityproj", "{AE66BAD2-A75A-4D0D-174C-6B50E2B8C8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSculptingApp", "Assembly-CSharp-Editor.csproj", "{68DB1603-E738-B375-B0A4-13806F3FB870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CECDFC-FB09-8E5B-BBE0-BCC76A868D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CECDFC-FB09-8E5B-BBE0-BCC76A868D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CECDFC-FB09-8E5B-BBE0-BCC76A868D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CECDFC-FB09-8E5B-BBE0-BCC76A868D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE66BAD2-A75A-4D0D-174C-6B50E2B8C8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE66BAD2-A75A-4D0D-174C-6B50E2B8C8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE66BAD2-A75A-4D0D-174C-6B50E2B8C8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE66BAD2-A75A-4D0D-174C-6B50E2B8C8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DB1603-E738-B375-B0A4-13806F3FB870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DB1603-E738-B375-B0A4-13806F3FB870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DB1603-E738-B375-B0A4-13806F3FB870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DB1603-E738-B375-B0A4-13806F3FB870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
