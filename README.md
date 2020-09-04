@@ -21,5 +21,5 @@ Unable to build successfully using Unity 2017.1
 
 ## Future Development:
 Add more tools such as copy and paste.
-Implement voxel based sculpting
+Implement gaussian based sculpting
 Add more sculpting brush type
